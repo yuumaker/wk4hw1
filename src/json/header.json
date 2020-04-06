@@ -1,0 +1,62 @@
+
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://github.com/yuumaker/image/blob/master/src/images/camera.png?raw=true",
+            "HeaderMid":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png",
+            "HeaderRightUrl":"https://github.com/yuumaker/image/blob/master/src/images/send.png?raw=true",
+            "bottomImage1":"https://cdn.clipart.email/2d598a01881ffe7cc6d63ddc9bf65e7e_instagram-home-icon-google-search_200-200.png",
+            "bottomImage2":"https://pngimage.net/wp-content/uploads/2019/05/logo-ig-transparan-png-.png",
+            "bottomImage3":"https://github.com/yuumaker/image/blob/master/src/images/like.png?raw=true",
+            "bottomImage4":"https://lh3.googleusercontent.com/u2i7e4PDKUf9gD6IUxhfVl5_cnFGZ8-gWlKCs8iATDQkaAU0tVxhS2thgUcfyFORAfwYidzXTNZyygUDatGBuBXSqfrjVw=s600"
+        },
+
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VisualEditor_-_Icon_-_Move-rtl.svg/2000px-VisualEditor_-_Icon_-_Move-rtl.svg.png",
+            "HeaderRightUrl":"https://github.com/yuumaker/image/blob/master/src/images/edit%20(1).png?raw=true",
+            "bottomImage":"https://github.com/yoruki1104/wk4-ig/blob/master/img/message/btn_camera.png?raw=true",
+            "HeaderMidUrl":"https://github.com/yuumaker/image/blob/master/src/images/video-camera.png?raw=true"
+        },
+
+        "Friends": 
+        {
+        "name": "tako_mouse",
+        "camera": "https://github.com/yuumaker/image/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/yuumaker/image/blob/master/src/images/Image%203.png?raw=true",
+        "chat":"章丸丸 is me"
+        },
+
+        "Friends2": 
+        {
+        "name": "pata_yaaaa",
+        "camera": "https://github.com/yuumaker/image/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/yuumaker/image/blob/master/src/images/Image%204.png?raw=true",
+        "chat":"帕塔雅 is me"
+        },
+
+        "Friends3": 
+        {
+         "name": "aaaa_nyyyyy",
+         "camera": "https://github.com/yuumaker/image/blob/master/src/images/camera.png?raw=true",
+         "thumbnail_image": "https://github.com/yuumaker/image/blob/master/src/images/Image%205.png?raw=true",
+         "chat":"阿泥 is me"
+        },
+
+        "Friends4": 
+        {
+        "name": "pian_kkkkk",
+        "camera": "https://github.com/yuumaker/image/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/yuumaker/image/blob/master/src/images/Image%207.png?raw=true",
+        "chat":"畢安卡 is me"
+        },
+
+        "Friends5": 
+        {
+        "name": "piee_roooo",
+        "camera": "https://github.com/yuumaker/image/blob/master/src/images/camera.png?raw=true",
+        "thumbnail_image": "https://github.com/yuumaker/image/blob/master/src/images/Image%208.png?raw=true",
+        "chat":"皮耶羅 is me"
+        }
+            
+}

@@ -18,16 +18,12 @@ const AlbumDetail = ({ album, navigation }) => {
           </View>
         </View>
         <View style={styles.cardSectionStyle}>
-          {/* <TouchableOpacity 
-            onPress={() => navigation.navigate('Detail', album)}
-          > */}
             <Image
               style={styles.imageStyle}
               source={{
                 uri: album.image
               }}
             />
-          {/* </TouchableOpacity> */}
         </View>
         <View style={styles.fouricons}>
               <Image source={{url:"https://github.com/yuumaker/image/blob/master/src/images/like.png?raw=true"}}
